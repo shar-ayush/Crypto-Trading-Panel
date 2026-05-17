@@ -6,7 +6,13 @@ custom Node.js relay server, and presents it in a clean React Native trading int
 complete with live charts, crosshair interaction, and a trade panel.
 
 ---
-
+## Screenshots
+<p align="center">
+  <img src="./screenshots/1.png" width="30%" />
+  <img src="./screenshots/2.png" width="30%" />
+  <img src="./screenshots/3.png" width="30%" />
+  <img src="./screenshots/4.png" width="30%" />
+</p>
 ## Quick Start
 
 ### Prerequisites
