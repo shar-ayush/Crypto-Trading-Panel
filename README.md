@@ -4,14 +4,13 @@ A full-stack, real-time cryptocurrency trading panel inspired by Binance and Rob
 Streams live market data from the **Binance WebSocket API**, processes it through a
 custom Node.js relay server, and presents it in a clean React Native trading interface
 complete with live charts, crosshair interaction, and a trade panel.
-
+v
 ---
 ## Screenshots
 <p align="center">
-  <img src="./screenshots/1.png" width="30%" />
-  <img src="./screenshots/2.png" width="30%" />
-  <img src="./screenshots/3.png" width="30%" />
-  <img src="./screenshots/4.png" width="30%" />
+  <img src="./screenshots/1.jpg" width="30%">
+  <img src="./screenshots/3.jpg" width="30%">
+  <img src="./screenshots/2.jpg" width="30%">
 </p>
 ## Quick Start
 
